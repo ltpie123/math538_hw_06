@@ -2,6 +2,8 @@
 
 ## Logistic Map
 
+![Alt text](https://github.com/ltpie123/math538_hw_06/blob/9e64ad84007e25e008bacdf36a624083f18042c7/logistic_map_lyapunov_bifurcation.png "The Logistic Map")
+
 ### Lyapunov Exponent (λ)
 
   - $f(x) = ax(1-x)$
@@ -29,6 +31,8 @@
   - as a arrives at 4, the system is sent into full chaos.
 
 ## Cubic Map
+
+![Alt text](https://github.com/ltpie123/math538_hw_06/blob/9e64ad84007e25e008bacdf36a624083f18042c7/cubic_map_lyapunov_bifurcation.png "The Cubic Map")
 
 ### Lyapunov Exponent (λ)
 
